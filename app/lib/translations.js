@@ -7,7 +7,7 @@ export const translations = {
       title1: "Adult Education",
       title2: "Open House",
       subtitle: "Learn about free classes, meet our community, and celebrate together.",
-      date: "Saturday, November 15, 2025",
+      date: "Saturday, November 14, 2026",
       time: "11:00 AM – 2:30 PM · Stop by anytime during the event.",
       location: "Howard and Evanston Community Center",
       cta: "Reserve Your Free Spot",
@@ -60,7 +60,7 @@ export const translations = {
     },
     signup: {
       tag: "Reserve Your Spot",
-      heading: "We hope to see you on November 15!",
+      heading: "We hope to see you on November 14!",
       description: "This free event is open to everyone in the community.",
     },
     form: {
@@ -70,7 +70,7 @@ export const translations = {
       submit: "Reserve My Spot",
       sending: "Sending…",
       successHeading: "You're registered!",
-      successSub: "We can't wait to see you on November 15.",
+      successSub: "We can't wait to see you on November 14.",
       calBtn: "Add to Google Calendar",
       nameError: "Please enter your name.",
       emailError: "Please enter your email address.",
@@ -79,7 +79,7 @@ export const translations = {
     },
     schedule: {
       tag: "Event Schedule",
-      title: "November 15, 2025",
+      title: "November 14, 2026",
       allDay: "All day",
       happeningNow: "Happening Now",
       mapTag: "Event Map",
