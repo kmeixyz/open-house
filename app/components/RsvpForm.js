@@ -109,7 +109,7 @@ export default function RsvpForm() {
         </div>
         <a
           className="btn-primary ticket-cal"
-          href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=HECC+Adult+Education+Open+House&dates=20251115T110000/20251115T143000&details=Howard+%26+Evanston+Community+Center+Open+House&location=Howard+%26+Evanston+Community+Center%2C+Chicago%2C+IL"
+          href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=HECC+Adult+Education+Open+House&dates=20261114T110000/20261114T143000&details=Howard+%26+Evanston+Community+Center+Open+House&location=Howard+%26+Evanston+Community+Center%2C+Chicago%2C+IL"
           target="_blank"
           rel="noreferrer"
         >

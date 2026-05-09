@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-const EVENT_DATE = new Date(2025, 10, 15);
+const EVENT_DATE = new Date(2026, 10, 14);
 
 function isHappeningNow(startTime, endTime) {
   const now = new Date();

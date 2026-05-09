@@ -10,12 +10,12 @@ export default function HeroButton() {
 
   useEffect(() => {
     const now = new Date();
-    const isNov15 =
-      now.getFullYear() === 2025 &&
+    const isNov14 =
+      now.getFullYear() === 2026 &&
       now.getMonth() === 10 &&
-      now.getDate() === 15;
+      now.getDate() === 14;
     const hours = now.getHours() + now.getMinutes() / 60;
-    setIsEventNow(isNov15 && hours >= 11.0 && hours < 14.5);
+    setIsEventNow(isNov14 && hours >= 11.0 && hours < 14.5);
   }, []);
 
   if (isEventNow) {
