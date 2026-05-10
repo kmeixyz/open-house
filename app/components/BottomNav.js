@@ -57,13 +57,13 @@ export default function BottomNav() {
         <HomeIcon />
         <span>{t.bottomNav.home}</span>
       </Link>
-      <Link href="/schedule#map" className="bottom-nav-item">
-        <MapIcon />
-        <span>{t.bottomNav.map}</span>
-      </Link>
       <Link href="/schedule" className={`bottom-nav-item${pathname === "/schedule" ? " active" : ""}`}>
         <CalendarIcon />
         <span>{t.bottomNav.schedule}</span>
+      </Link>
+      <Link href="/schedule#map" className="bottom-nav-item">
+        <MapIcon />
+        <span>{t.bottomNav.map}</span>
       </Link>
       <button type="button" className="bottom-nav-item" onClick={openLanguageModal}>
         <GlobeIcon />
