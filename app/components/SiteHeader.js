@@ -38,7 +38,7 @@ export default function SiteHeader() {
   return (
     <header className="top-nav">
       <div className="nav-logo">
-        <span className="org">Howard and Evanston Community Center</span>
+        <span className="org">Howard and Evanston<br className="org-break" /> Community Center</span>
         <span className="event">Adult Education Open House</span>
       </div>
       <div className="nav-actions">

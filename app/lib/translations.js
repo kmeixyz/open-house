@@ -1,7 +1,7 @@
 export const translations = {
   en: {
     dir: "ltr",
-    nav: { schedule: "Event Schedule", home: "About the Event", cta: "Reserve Your Spot" },
+    nav: { schedule: "Event Schedule", home: "About the Event", cta: "RSVP" },
     hero: {
       eyebrow: "Free Community Event",
       title1: "Adult Education",
@@ -99,7 +99,7 @@ export const translations = {
 
   es: {
     dir: "ltr",
-    nav: { schedule: "Programa del Evento", home: "Sobre el Evento", cta: "Reserve Su Lugar" },
+    nav: { schedule: "Programa del Evento", home: "Sobre el Evento", cta: "RSVP" },
     hero: {
       eyebrow: "Evento Comunitario Gratuito",
       title1: "Educación para Adultos",
@@ -197,7 +197,7 @@ export const translations = {
 
   fr: {
     dir: "ltr",
-    nav: { schedule: "Programme de l'Événement", home: "À Propos", cta: "Réservez Votre Place" },
+    nav: { schedule: "Programme de l'Événement", home: "À Propos", cta: "RSVP" },
     hero: {
       eyebrow: "Événement Communautaire Gratuit",
       title1: "Éducation des Adultes",
@@ -295,7 +295,7 @@ export const translations = {
 
   ar: {
     dir: "rtl",
-    nav: { schedule: "برنامج الفعالية", home: "عن الفعالية", cta: "احجز مكانك" },
+    nav: { schedule: "برنامج الفعالية", home: "عن الفعالية", cta: "RSVP" },
     hero: {
       eyebrow: "فعالية مجتمعية مجانية",
       title1: "تعليم الكبار",
@@ -393,7 +393,7 @@ export const translations = {
 
   prs: {
     dir: "rtl",
-    nav: { schedule: "برنامه رویداد", home: "درباره رویداد", cta: "جای خود را رزرو کنید" },
+    nav: { schedule: "برنامه رویداد", home: "درباره رویداد", cta: "RSVP" },
     hero: {
       eyebrow: "رویداد رایگان اجتماعی",
       title1: "آموزش بزرگسالان",
@@ -491,7 +491,7 @@ export const translations = {
 
   ht: {
     dir: "ltr",
-    nav: { schedule: "Pwogram Aktivite a", home: "Sou Aktivite a", cta: "Rezève Plas Ou" },
+    nav: { schedule: "Pwogram Aktivite a", home: "Sou Aktivite a", cta: "RSVP" },
     hero: {
       eyebrow: "Aktivite Kominotè Gratis",
       title1: "Edikasyon pou Granmoun",
@@ -589,7 +589,7 @@ export const translations = {
 
   tr: {
     dir: "ltr",
-    nav: { schedule: "Etkinlik Programı", home: "Etkinlik Hakkında", cta: "Yerinizi Ayırtın" },
+    nav: { schedule: "Etkinlik Programı", home: "Etkinlik Hakkında", cta: "RSVP" },
     hero: {
       eyebrow: "Ücretsiz Topluluk Etkinliği",
       title1: "Yetişkin Eğitimi",
@@ -687,7 +687,7 @@ export const translations = {
 
   uk: {
     dir: "ltr",
-    nav: { schedule: "Програма заходу", home: "Про захід", cta: "Забронюйте місце" },
+    nav: { schedule: "Програма заходу", home: "Про захід", cta: "RSVP" },
     hero: {
       eyebrow: "Безкоштовний громадський захід",
       title1: "Освіта для дорослих",
