@@ -57,7 +57,7 @@ export default function BottomNav() {
         <HomeIcon />
         <span>{t.bottomNav.home}</span>
       </Link>
-      <Link href="/#arrival" className="bottom-nav-item">
+      <Link href="/schedule#map" className="bottom-nav-item">
         <MapIcon />
         <span>{t.bottomNav.map}</span>
       </Link>

@@ -1,6 +1,6 @@
 export default function FloorMap({ mapTag = "Event Map" }) {
   return (
-    <div className="floor-map-wrap">
+    <div id="map" className="floor-map-wrap">
       <p className="section-tag" style={{ marginBottom: "1rem" }}>{mapTag}</p>
       <svg
         className="floor-map"
